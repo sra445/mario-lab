@@ -1,0 +1,14 @@
+mario,95,125,35,0,mario.png,100,70,11
+platform,2790,300,200,50,platform.png
+platform,1290,335,200,50,platform.png
+gomba,2340,340,35,0,gomba.png,70,70,5,2140,2540
+gomba,1870,355,35,0,gomba.png,70,70,5,1670,2070
+platform,2360,375,200,50,platform.png
+gomba,965,405,35,0,gomba.png,70,70,5,765,1165
+platform,800,455,200,50,platform.png
+gomba,360,480,35,0,gomba.png,70,70,5,160,560
+platform,185,520,200,50,platform.png
+gomba,2945,535,35,0,gomba.png,70,70,5,2745,3145
+gomba,1370,540,35,0,gomba.png,70,70,5,1170,1570
+gomba,2015,545,35,0,gomba.png,70,70,5,1815,2215
+ground,0,585
